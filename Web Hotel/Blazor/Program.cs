@@ -1,4 +1,4 @@
-using BlazorApp1.Data;
+using Blazor.Data;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 
